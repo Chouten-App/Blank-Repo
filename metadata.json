@@ -1,0 +1,19 @@
+{
+    "modules": [
+      {
+          "name": "Module Name",
+          "version": "1.0.0",
+          "author": "Author",
+          "filePath": "./modules/TestModule.module",
+          "subtypes": ["Type1"],
+          "iconPath": "./icons/icon.png",
+          "id": "e2394db0-0aa4-4eba-8bcd-7cec48f88832"
+        }
+    ],
+    "url": "https://github.com/",
+    "title": "Test Repo",
+    "id": "8e336473-0e63-4dd3-b317-56569414bd61",
+    "author": "Chouten-Team",
+    "description": "This is a test repo for internal Chouten testing."
+  }
+  

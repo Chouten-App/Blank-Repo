@@ -1,0 +1,9 @@
+{
+  "id": "e2394db0-0aa4-4eba-8bcd-7cec48f88832",
+  "name": "Test Module",
+  "author": "Chouten-Team",
+  "description": "This is a test module to test the backend of Chouten.",
+  "type": 0,
+  "subtypes": ["DEBUG"],
+  "version": "1.0.0"
+}
